@@ -1,0 +1,5 @@
+print("Assalamu'alaikum")
+print("")
+print("Let me introduce my self. My Name is Amad Sumadi, but you can call me Amad. My NPM is .I was born in wonogiri and i am 21 years old. I am very glad if you want to invite my house in alamanda regency blok k5/45, karang satria,tambun utara, bekasi. So, don't forget to call me before with the number 085640436424. ")
+print("")
+print("Thank you")
