@@ -10,5 +10,8 @@ ini adalah tampilannya
 ![gambar 2](sstugaske2/sstugaske22.png)
 dan ini adalah output dari perintah yang kita masukkan tadi
 ![gambar 3](sstugaske2/sstugaske23.png)
-
+adapun cara memasukkannya seperti pertemuan kemarin 
+yaitu dengan aplikasi gitbash
+berikut adalah tampilannya
+![gambar 4](sstugaske2/sstugaske24.png)
 
