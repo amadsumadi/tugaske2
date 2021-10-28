@@ -1,5 +1,36 @@
+#!/user/bin/python
+#matkul : bahasa pemrograman
+###########
+###########
 print("Assalamu'alaikum")
-print("")
-print("Let me introduce my self. My Name is Amad Sumadi, but you can call me Amad. My NPM is .I was born in wonogiri and i am 21 years old. I am very glad if you want to invite my house in alamanda regency blok k5/45, karang satria,tambun utara, bekasi. So, don't forget to call me before with the number 085640436424. ")
-print("")
-print("Thank you")
+
+print("================")
+print("    Biodata     ")
+print("================")
+#nama
+data = input("my name is: ")
+print("Nama lengkap = ",data,)
+
+#nama_pamggilan
+data = input("But you can call me: ")
+print("Nama Panggilan = ",data,)
+
+#NPM
+data = input("My NPM is: ")
+print("My NPM is = ",data,)
+
+#tempat_lahir
+data = input("I was born in: ")
+print("Tempat lahir = ",data,)
+
+#umur
+data_int = int(input("umur: "))
+print("I am = ",data_int, "years old")
+
+#alamat
+data = input("alamat: ")
+print("alamat saya = ",data,)
+
+#nomor_telepon
+data_int = int(input("nomor telepon: "))
+print("You can call me with the number = ",data_int,)
